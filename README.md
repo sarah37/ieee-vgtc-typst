@@ -71,7 +71,7 @@ The `conference` function has the following named arguments:
 
 ## Previews
 
-<p align="center"><img src="thumbnail.png" width="500"/></p>
+<p align="center"><img src="thumbnail.png" alt="The first page of the template showing the title, teaser figure, the abstract, and a few text paragraphs." width="500"/></p>
 
 Live [preview of the PDF template](preview.pdf).
 
