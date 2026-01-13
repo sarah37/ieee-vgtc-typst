@@ -1,8 +1,8 @@
 # ieee-vgtc
 
-A [Typst](https://typst.app) template for IEEE VGTC (Visualization and Graphics Technical Community) conferences and TVCG (Transactions on Visualization and Computer Graphics) journal papers. This includes IEEE VIS, IEEE VR, and ISMAR conferences. We aim to closely mirror the LaTeX templates: [journal template](https://github.com/ieeevgtc/tvcg-journal-latex) and [conference template](https://github.com/ieeevgtc/vgtc_conference_latex).
+A [Typst](https://typst.app) template for IEEE VGTC (Visualization and Graphics Technical Community) conferences and TVCG (Transactions on Visualization and Computer Graphics) journal papers. This includes IEEE VIS, IEEE VR, and ISMAR conferences. We aim to closely mirror the LaTeX templates: [journal template](https://github.com/ieeevgtc/tvcg-journal-latex) and [conference template](https://github.com/ieeevgtc/vgtc_conference_latex). We appreciate feedback and contributions to improve the template.
 
-**While the template is work in progress, you are encouraged to use it. Please ensure that the results adhere to the [publications guidelines](https://tc.computer.org/vgtc/publications/conference/).**
+**While the template is work in progress, you are encouraged to use it. Please ensure that the results adhere to the [journal](https://tc.computer.org/vgtc/publications/journal/) and [conference](https://tc.computer.org/vgtc/publications/conference/) publications guidelines.**
 
 ## Usage
 
