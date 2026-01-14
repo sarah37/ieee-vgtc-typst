@@ -1,4 +1,4 @@
-#import "@preview/ieee-vgtc:0.0.1": conference
+#import "@preview/ieee-vgtc:0.0.2": conference
 
 #show: conference.with(
   // Set review: true to enable review mode (hides authors, shows submission info)

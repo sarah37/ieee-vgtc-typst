@@ -57,3 +57,7 @@ Bump the version in `typst.toml`, `template/journal.typ`, `template/conference.t
 Then log in with `typship login universe` and run `typship publish universe`.
 
 Check the pull request and remove files that should not be part of it such as the link scripts.
+
+### Bumping versions
+
+After making a release, tag the released commit with the version number, e.g., `v0.0.1`. Then bump the version number in `typst.toml`, `template/journal.typ`, and `template/conference.typ` to the next version, e.g., `0.0.2`.
