@@ -52,11 +52,9 @@ Run `typst-package-check check` with [typst-package-check](https://github.com/ty
 
 ### Publishing a new version
 
-Bump the version in `typst.toml`, `template/journal.typ`, `template/conference.typ`, and the README.
+Log in with `typship login universe` and run `typship publish universe`.
 
-Then log in with `typship login universe` and run `typship publish universe`.
-
-Check the pull request and remove files that should not be part of it such as the link scripts.
+Check the pull request and remove files that should not be part of it such as the link scripts. Update the README to remove the `## Templates ...` section as Typst packages do not yet support multiple templates.
 
 ### Bumping versions
 
