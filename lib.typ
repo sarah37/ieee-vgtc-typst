@@ -252,7 +252,7 @@
     show std-bibliography: set text(8pt)
     set std-bibliography(
       title: text(font: sans-serif-font, size: 9pt, weight: "bold")[#render-smallcaps([References])],
-      style: "ieee"
+      style: "ieee-vgtc.csl"
     )
     bibliography
   }
@@ -528,7 +528,7 @@
     show std-bibliography: set text(8pt)
     set std-bibliography(
       title: text(font: sans-serif-font, size: 9pt, weight: "bold")[#render-smallcaps([References])],
-      style: "ieee"
+      style: "ieee-vgtc.csl"
     )
     bibliography
   }
